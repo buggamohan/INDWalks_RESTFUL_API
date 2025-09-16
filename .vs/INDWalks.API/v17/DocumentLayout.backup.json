@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\repositories\\iwalksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\repositories\\iwalksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\dto\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\dto\\addwalksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\dto\\addwalksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\dto\\addregionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\dto\\addregionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\dto\\updatewalkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\dto\\updatewalkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\repositories\\sqlwalksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\repositories\\sqlwalksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\data\\indwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\data\\indwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\dto\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\dto\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\domain\\regions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\domain\\regions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\dto\\walksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\dto\\walksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\domain\\walks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\domain\\walks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\model\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\model\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\indwalks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\indwalks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\migrations\\20250910164009_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\migrations\\20250910164009_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|c:\\users\\mohan\\source\\repos\\indwalks.api\\indwalks.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09356F3-B355-4502-AD94-576CA098555A}|INDWalks.API\\INDWalks.API.csproj|solutionrelative:indwalks.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "INDWalks.API\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:58:23.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWalksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Repositories\\IWalksRepository.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Repositories\\IWalksRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Repositories\\IWalksRepository.cs",
+              "RelativeToolTip": "INDWalks.API\\Repositories\\IWalksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:16:21.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddRegionsDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\AddRegionsDto.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\DTO\\AddRegionsDto.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\AddRegionsDto.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\DTO\\AddRegionsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:10:20.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddWalksDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\AddWalksDto.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\DTO\\AddWalksDto.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\AddWalksDto.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\DTO\\AddWalksDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:24:13.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DifficultyDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\DifficultyDto.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\DTO\\DifficultyDto.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\DifficultyDto.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\DTO\\DifficultyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:41:23.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegionDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\RegionDto.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\DTO\\RegionDto.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\RegionDto.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\DTO\\RegionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T18:45:02.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "INDWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:19:54.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateWalkDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\UpdateWalkDto.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\DTO\\UpdateWalkDto.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\UpdateWalkDto.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\DTO\\UpdateWalkDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:12:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlWalksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Repositories\\SqlWalksRepository.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Repositories\\SqlWalksRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Repositories\\SqlWalksRepository.cs",
+              "RelativeToolTip": "INDWalks.API\\Repositories\\SqlWalksRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCUAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:16:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INDWalksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Data\\INDWalksDbContext.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Data\\INDWalksDbContext.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Data\\INDWalksDbContext.cs",
+              "RelativeToolTip": "INDWalks.API\\Data\\INDWalksDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:01:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateRegionDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\UpdateRegionDto.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\DTO\\UpdateRegionDto.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\UpdateRegionDto.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\DTO\\UpdateRegionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:45:50.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Regions.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\Domain\\Regions.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\Domain\\Regions.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\Domain\\Regions.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\Domain\\Regions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:42:21.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WalksDto.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\WalksDto.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\DTO\\WalksDto.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\DTO\\WalksDto.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\DTO\\WalksDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:23:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Walks.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\Domain\\Walks.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\Domain\\Walks.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\Domain\\Walks.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\Domain\\Walks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:43:06.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Repositories\\SqlRegionRepository.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Repositories\\SqlRegionRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Repositories\\SqlRegionRepository.cs",
+              "RelativeToolTip": "INDWalks.API\\Repositories\\SqlRegionRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T16:25:49.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Mapping\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Mapping\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Mapping\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "INDWalks.API\\Mapping\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T17:58:16.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Model\\Domain\\Difficulty.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Model\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "INDWalks.API\\Model\\Domain\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:42:38.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Program.cs",
+              "RelativeToolTip": "INDWalks.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:15:22.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "INDWalks.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T16:24:04.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "INDWalks.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\appsettings.json",
+              "RelativeToolTip": "INDWalks.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T16:08:47.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "INDWalks.API.csproj",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\INDWalks.API.csproj",
+              "RelativeDocumentMoniker": "INDWalks.API\\INDWalks.API.csproj",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\INDWalks.API.csproj",
+              "RelativeToolTip": "INDWalks.API\\INDWalks.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T15:41:00.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250910164009_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Migrations\\20250910164009_Initial Migration.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Migrations\\20250910164009_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Migrations\\20250910164009_Initial Migration.cs",
+              "RelativeToolTip": "INDWalks.API\\Migrations\\20250910164009_Initial Migration.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:40:09.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "INDWalks.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "INDWalks.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAABRwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T15:32:11.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "INDWalks.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:34:31.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "INDWalks.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mohan\\source\\repos\\INDWalks.API\\INDWalks.API\\WeatherForecast.cs",
+              "RelativeToolTip": "INDWalks.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:31:55.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
